@@ -52,7 +52,7 @@
     background: #ffffff;
     height: 34px;
     padding: 0 32px 0 10px;
-    box-shadow: inset 1px 1px 1px 0px rgb(0 0 0 / 10%);
+    box-shadow: inset 0.5px 0.5px 0.5px 0px rgb(0 0 0 / 10%);
     font-family: 'latoregular',sans-serif;
     font-size: 14px;
     text-align: left;
