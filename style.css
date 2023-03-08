@@ -86,3 +86,9 @@
 .login-footer{
     margin: 30px;
 }
+/*Media Query for width <= 1024*/
+@media screen and (max-width: 1024px){
+    .container{
+        width: 100%;
+    }
+}
